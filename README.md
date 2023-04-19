@@ -15,3 +15,7 @@ Then to verify that the remote URL has been added to the local repository  run t
 By following these steps, a Git repository is created successfully, added an existing folder to it, and pushed it to a remote repository also enabled pulling changes from the remote repository in the local Git repository. 
 Issues:
 Issues are faced at the beginning .After 4 to 5 attempts it is created successfully.
+
+Project: Food menu
+Our project is responsive website that contains menu of food and can be displayed on different devices responsively.
+html/css concepts are used in it.

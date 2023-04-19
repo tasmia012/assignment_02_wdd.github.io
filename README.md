@@ -3,9 +3,9 @@ Project:Menu of food
 Procedure:
 1)Git is installed.Easily installed.
 2)Then On Git bash commands are used;
-First, i nevigate to the directory where i want to create repository.
+First, we nevigate to the directory where we want to create repository.
 Then after that using command "git init" git is initiallized there
-Then copy the folder(conatining code created n visual studio) that i want to upload to the Git repository into the directory that was just initialized as a Git repository.
+Then copy the folder(conatining code created n visual studio) that we want to upload to the Git repository into the directory that was just initialized as a Git repository.
 Then using the command git add to stage the folder and its contents for commit. This tells Git to start tracking changes to the folder and its contents.
 Then using the command git commit to commit the folder and its contents to the repository with a message describing the changes made to the folder.
 Then Creating a remote repository on a Git hosting service (github).
